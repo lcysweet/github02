@@ -5,7 +5,7 @@ class TestAbc:
          assert  1
 
     def test_abc2(self):
-         assert  1
+         assert  0
 
     def test_abc3(self):
         assert 1
