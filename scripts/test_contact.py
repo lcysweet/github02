@@ -8,4 +8,7 @@ class TestAbc:
          assert  1
 
     def test_abc3(self):
-        assert 0
+        assert 1
+
+    def test_abc3(self):
+        assert 1
